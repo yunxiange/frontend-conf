@@ -36,3 +36,6 @@ China frontend conference sharing
 
 详细内容：[点击查看](./content/FEDay-2015-01-17.md)
 
+#### 8. JS中国开发者大会·深JS（2015.07.11~07.12，深圳前海万科企业公馆 (特区馆)）
+
+详细内容：[点击查看](./content/ShenJS-2015-07-11.md)
