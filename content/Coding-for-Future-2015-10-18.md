@@ -48,7 +48,7 @@
 
 嘉宾简介：郭达峰，strikingly.com创始人
 
-文档地址：[-](-)
+文档地址：[http://react-ecosys.weitie.co/](http://react-ecosys.weitie.co/)
 
 - 《A story about grow》
 
