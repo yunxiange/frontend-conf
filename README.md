@@ -50,7 +50,7 @@ China frontend conference sharing
 
 #### 9. 中国第二届CSS开发者大会
 时    间：2015.08.08  
-地    点：上海市长宁区金钟路999号A座2层 虹桥国际会议中心
+地    点：上海市长宁区金钟路999号A座2层 虹桥国际会议中心  
 详细内容：[点击查看](./content/CSS-Conf-2015-08-08.md)
 
 #### 10. 首届CFF(Coding for Future)前端交流会
