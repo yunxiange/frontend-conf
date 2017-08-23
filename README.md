@@ -2,7 +2,6 @@
 
 China frontend conference sharing
 
-![front-end-conference](https://raw.githubusercontent.com/yunxiange/yunxiange.github.io/master/images/front-end-conference.png)
 
 ## 前端交流分享会
 
